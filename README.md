@@ -1,2 +1,3 @@
-# Predictive-Analytics
-Developed a Power BI dashboard using historical sales data to analyze performance and forecast future trends. The project includes data cleaning, KPI tracking, trend analysis, predictive forecasting, and interactive visualizations. It delivers actionable insights through product, segment, and country-wise analysis for decision-making. effectively.
+Predictive Analytics Using Historical Data
+
+Built an interactive Power BI dashboard to analyze historical sales data, track key business KPIs, and forecast future trends. The project leverages data cleaning, predictive analytics, and dynamic visualizations to uncover actionable insights, identify growth opportunities, and support data-driven strategic decision-making.
